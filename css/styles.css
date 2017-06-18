@@ -67,7 +67,7 @@ a {
 }
 
 #projects {
-    background-color: #595959;
+    background-color: yellow;
 }
 .clearfix:after {
     content: "";
@@ -78,7 +78,7 @@ a {
 .project {
     width: 30%;
     display: inline-block;
-    background-color: yellow
+    background-color: #595959
     margin: 1.66%
     border-radius:  15px;
     float: left: 
